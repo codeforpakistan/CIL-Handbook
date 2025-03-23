@@ -40,6 +40,15 @@ export default defineConfig({
 					],
 					
 				},
+
+				{
+					label: 'Human Centered Design',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Human Centered Design', slug: 'guides/hcd-system' },
+					],
+					
+				},
 				
 
 				{
