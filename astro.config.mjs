@@ -46,6 +46,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Human Centered Design', slug: 'guides/hcd-system' },
+						{ label: 'Importance of Human-Centered Design', slug: 'guides/hcd-importance' },
 					],
 					
 				},
