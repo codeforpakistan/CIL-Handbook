@@ -29,6 +29,8 @@ By offering these instruments, Civic Tech translates the possibility of digital 
 Public issue reporting platforms empower citizens to make a positive difference in their respective locales. Such applications not only advance communal space but also create a robust sense of civic responsibility.
 Crucially, Civic Tech refreshes democracy by empowering citizens to take an active role, ensuring their participation in the democratic journey. This signifies the evolution of digital democracy and the momentous contribution of Civic Tech. In light of these factors, it’s clear that Civic Tech is unlocking the immense potential of digital democracy. 
 
+![Civic Tech](/assets/civic-tech.png)
+
 
 ## Inciting Revolutionary Transformations in Civic Involvement
 

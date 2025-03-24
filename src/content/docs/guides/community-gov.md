@@ -22,6 +22,10 @@ Civic tech stands at the exciting crossroads of technology and civic engagement,
 
 However, to maximize its potential, civic tech needs strong collaboration between governments, civic organizations, and communities. By fostering partnerships, sharing resources, and leveraging technology creatively, civic tech can play a pivotal role in creating smarter, more inclusive, and sustainable communities for all. The future of civic engagement is bright, and with civic tech, we're only just getting started!
 
+## Civic Tech Concept
+
+![Steps](/assets/civic-tech-concept.png)
+
 ## Further reading
 
 - Read [Examples of Collaboration between Civic Tech Communities and Governments Around the World ](https://www.freiheit.org/publikation/examples-civic-tech-communities-governments-collaboration-around-world) 
