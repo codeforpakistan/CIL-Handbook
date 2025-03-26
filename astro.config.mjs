@@ -50,6 +50,7 @@ export default defineConfig({
 						{ label: 'Principles of Human-Centered Design', slug: 'guides/hcd-principles' },
 						{ label: 'Phases of Human-Centered Design', slug: 'guides/hcd-phases' },
 						{ label: 'Process of Human-Centered Design', slug: 'guides/hcd-process' },
+						{ label: 'Designs That Work for Everyone', slug: 'guides/designs-for-everyone' },
 					],
 					
 				},
