@@ -48,6 +48,8 @@ export default defineConfig({
 						{ label: 'Human Centered Design', slug: 'guides/hcd-system' },
 						{ label: 'Importance of Human-Centered Design', slug: 'guides/hcd-importance' },
 						{ label: 'Principles of Human-Centered Design', slug: 'guides/hcd-principles' },
+						{ label: 'Phases of Human-Centered Design', slug: 'guides/hcd-phases' },
+						{ label: 'Process of Human-Centered Design', slug: 'guides/hcd-process' },
 					],
 					
 				},

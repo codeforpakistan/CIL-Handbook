@@ -20,3 +20,4 @@ Always keep the big picture of the user journey in mind, even if you’re only w
 
 Don’t rush into big design solutions. Instead, do iterative work with simple interventions that you can learn from. Slowly, your results will get better and bigger. Also, continuously prototype and test your solutions to make sure they meet the needs of the people you’re designing for.
 
+![Framework](/assets/HCD-Framework.png)
