@@ -56,7 +56,15 @@ export default defineConfig({
 					],
 					
 				},
-				
+					
+				{
+					label: 'Design Thinking',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Design Thinking', slug: 'guides/design-thinking' },
+					],
+					
+				},
 
 				{
 					label: 'Reference',
