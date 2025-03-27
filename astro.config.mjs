@@ -51,6 +51,8 @@ export default defineConfig({
 						{ label: 'Phases of Human-Centered Design', slug: 'guides/hcd-phases' },
 						{ label: 'Process of Human-Centered Design', slug: 'guides/hcd-process' },
 						{ label: 'Designs That Work for Everyone', slug: 'guides/designs-for-everyone' },
+						{ label: 'Examples of Human Centered Design', slug: 'guides/hcd-examples' },
+						{label: 'Design thinking vs HCD', slug: 'guides/design-thinking-vs-hcd'},
 					],
 					
 				},
