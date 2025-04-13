@@ -62,6 +62,8 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Design Thinking', slug: 'guides/design-thinking' },
+						{ label: 'How to Think Like a Designer', slug: 'guides/think-like-designer' },
+	
 					],
 					
 				},
