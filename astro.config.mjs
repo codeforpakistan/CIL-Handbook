@@ -64,7 +64,7 @@ export default defineConfig({
 						{ label: 'Design Thinking', slug: 'guides/design-thinking' },
 						{ label: 'How to Think Like a Designer', slug: 'guides/think-like-designer' },
 						{ label: 'Design Thinking Process', slug: 'guides/design-thinking-process' },
-	
+						{ label: 'IDEO design thinking Steps', slug: 'guides/ideo-steps' },
 					],
 					
 				},
