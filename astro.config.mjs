@@ -65,10 +65,33 @@ export default defineConfig({
 						{ label: 'How to Think Like a Designer', slug: 'guides/think-like-designer' },
 						{ label: 'Design Thinking Process', slug: 'guides/design-thinking-process' },
 						{ label: 'IDEO design thinking Steps', slug: 'guides/ideo-steps' },
+						{ label: 'The double diamond technique', slug: 'guides/double-diamond' },
+						{ label: 'Design thinking examples', slug: 'guides/design-thinking-examples' },
+				
 					],
 					
 				},
 
+				{
+					label: 'CILs',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Civic Innovation Labs', slug: 'guides/civic-lab' },
+						{ label: 'Civic Innovation Labs Responsibilities', slug: 'guides/cil-responsibilities' },
+					
+					],
+					
+				},
+
+				{
+					label: 'References',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Civic Innovation Labs', slug: 'guides/references' }
+					
+					],
+					
+				},
 				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
